@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "alien"]
 	path = alien
-	url = https://github.com/cran/alien
+	url = https://github.com/hezibu/alien
